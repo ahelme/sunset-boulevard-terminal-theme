@@ -2,6 +2,8 @@
 
 > *An easy-on-the-eye Terminal theme... dying lights of sunset and neon glimpses*
 
+<img width="814" height="716" alt="sunset-boulevard-terminal-theme" src="https://github.com/user-attachments/assets/0ed6b6c3-62c9-43c5-ae57-a3d880adc03b" />
+
 ## About
 
 Sunset Boulevard is a carefully crafted terminal theme that captures the essence of Los Angeles at golden hour - where the warm, fading light of sunset meets the electric glow of neon signs. This theme provides a comfortable, low-strain visual experience perfect for long coding sessions while maintaining excellent readability and visual hierarchy.
@@ -28,11 +30,14 @@ Sunset Boulevard is a carefully crafted terminal theme that captures the essence
 
 ## Screenshots
 
-### File Listing with colorls
-*Clean, organized file listings with intuitive color coding for different file types and permissions*
+### Code Syntax Highlighting (js)
+<img width="744" height="587" alt="code-js" src="https://github.com/user-attachments/assets/1fde6395-3a9b-49b1-b467-750240f1e3de" />
+
+### Markdown View with [glow](https://github.com/charmbracelet/glow)
+<img width="1434" height="1230" alt="md-glow" src="https://github.com/user-attachments/assets/156d6929-a076-4450-89a5-75bfb0895c17" />
 
 ### Git Diff View
-*Beautiful syntax highlighting with clear visual distinction between additions and deletions*
+<img width="1474" height="1122" alt="git-diff" src="https://github.com/user-attachments/assets/0673c3cf-d9e1-43c3-b2cf-35cdac4fff96" />
 
 ## Installation
 
