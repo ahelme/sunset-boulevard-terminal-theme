@@ -1,4 +1,4 @@
-# Sunset Boulevard
+# 🌇 Sunset Boulevard
 
 > *An easy-on-the-eye Terminal theme... dying lights of sunset and neon glimpses*
 
