@@ -1,6 +1,6 @@
 # 🌇 Sunset Boulevard
 
-> *Dying lights of sunset and neon glimpses, in your Terminal... (and now, Warp! with gradient options...)*
+> *Dying lights of sunset and neon glimpses, in your Terminal... and now, Warp, with gradient options!*
 
 <img width="814" height="716" alt="sunset-boulevard-terminal-theme" src="https://github.com/user-attachments/assets/0ed6b6c3-62c9-43c5-ae57-a3d880adc03b" />
 
