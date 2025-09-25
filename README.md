@@ -1,6 +1,6 @@
 # 🌇 Sunset Boulevard
 
-> *Dying lights of sunset and neon glimpses, in your Terminal.*
+> *Dying lights of sunset and neon glimpses, in your Terminal... (and now, Warp! with gradient options...)*
 
 <img width="814" height="716" alt="sunset-boulevard-terminal-theme" src="https://github.com/user-attachments/assets/0ed6b6c3-62c9-43c5-ae57-a3d880adc03b" />
 
@@ -17,16 +17,10 @@ Sunset Boulevard terminal theme is crafted to capture the essence of golden hour
 - Rich dark background that's easy on the eyes
 
 🎨 **Optimized for Development**
-- High contrast for excellent readability
-- Thoughtful syntax highlighting that reduces eye strain
-- Clear visual distinction between file types and permissions
-- Beautiful git diff highlighting with intuitive color coding
+- Medium-high contrast for readability and comfort
 
 💻 **Enhanced Terminal Experience**
 - Works beautifully with colorls for enhanced file listings
-- Elegant prompt styling with version indicators
-- Consistent color scheme across different terminal tools
-- Professional appearance suitable for presentations and pair programming
 
 ## Screenshots
 
@@ -53,6 +47,10 @@ Sunset Boulevard terminal theme is crafted to capture the essence of golden hour
 2. Double-click to import into Terminal.app
 3. Set as default in Terminal → Preferences → Profiles
 
+### For Warp (cross-platform)
+1. Download files from warp-themes/
+2. Follow: https://docs.warp.dev/terminal/appearance/custom-themes 
+
 ### For Other Terminals
 Check the `/themes` directory for your specific terminal emulator configuration files.
 
@@ -60,37 +58,28 @@ Check the `/themes` directory for your specific terminal emulator configuration 
 
 | Element | Color | Hex Code |
 |---------|-------|----------|
-| Background | Rich Dark | `#1a1a1a` |
-| Foreground | Soft White | `#f0f0f0` |
-| Sunset Gold | Warm Yellow | `#ffd700` |
-| Neon Cyan | Electric Blue | `#00ffff` |
-| Sunset Pink | Soft Magenta | `#ff69b4` |
-| Ocean Blue | Deep Teal | `#008080` |
-| Success Green | Mint Green | `#00ff7f` |
+| Background | Rich Dark | `#252630` |
+| Foreground | Sunset Gold | `#e1d270` |
+| Cursor | Soft Magenta | `#AC74D2` |
 
-## Recommended Setup
+## Recommended
 
-For the best experience, pair Sunset Boulevard with:
-- **colorls** - Enhanced `ls` with beautiful icons and colors
-- **oh-my-zsh** or **fish shell** - For enhanced prompt styling
+Pair Sunset Boulevard with:
+- **glow** - Enhanced markdown viewing
+- **colorls** - Enhanced ls icons and colors
+- **oh-my-zsh** and **Bullet Train** - Enhanced prompt styling and info
 - **git** with color output enabled
-- A coding font like **Fira Code**, **JetBrains Mono**, or **Cascadia Code**
+- **NerdFont** like Fira Code, JetBrains Mono, or Cascadia Code
 
 ## Compatibility
 
-- ✅ iTerm2
 - ✅ Terminal.app
+- ✅ Warp
+- ✅ iTerm2
 - ✅ Hyper
 - ✅ Alacritty
 - ✅ Windows Terminal
 - ✅ VS Code Integrated Terminal
-
-## Contributing
-
-Found a bug or have an improvement suggestion? Feel free to:
-1. Open an issue describing the problem or enhancement
-2. Submit a pull request with your changes
-3. Share screenshots of how the theme looks in your setup
 
 ## License
 
@@ -98,9 +87,9 @@ MIT License - feel free to modify and distribute as you see fit.
 
 ## Inspiration
 
-*"I am big! It's the pictures that got small."* - Norma Desmond
+Drawing electric energy from driving down Sunset Boulevard at magic hour, a bit of gloom and salt stink from the Venice canals on your way to the beach, pulled towards the dying sun drenching the sky above a murky night-ocean, with downtown glinting and the hills lurking behind your back, and a little Moonlight on the mind. 
 
-This theme draws inspiration from the golden age of Hollywood, the magic hour photography of Los Angeles, and the electric energy of Sunset Boulevard itself. It's designed for developers who appreciate both beauty and functionality in their daily tools.
+Designed for developers who appreciate a little mood in a long coding session, and the eye-comfort of warm-toned text.
 
 ---
 
