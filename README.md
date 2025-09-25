@@ -11,16 +11,21 @@ Sunset Boulevard terminal theme is crafted to capture the essence of golden hour
 ## Features
 
 ✨ **Sunset-Inspired Color Palette**
-- Warm golden yellows reminiscent of fading daylight
-- Cool cyan and teal tones like neon signs at dusk
+- Warm golden text reminiscent of fading daylight
+- Cool cyan and teal tones pop like neon signs at dusk
 - Soft pinks and magentas for highlights and accents
 - Rich dark background that's easy on the eyes
 
 🎨 **Optimized for Development**
 - Medium-high contrast for readability and comfort
-
-💻 **Enhanced Terminal Experience**
 - Works beautifully with colorls for enhanced file listings
+
+⚡️ **Warp Themes with Gradient Options**
+- Sunset Boulevard - close to the original
+- Sunset Boulevard Gradient - darker tinge for contrast and depth
+- Sunset Boulevard Dracula - envelop yourself in Dracula's cloak
+- Sunset Boulevard Venice - gritty green to drop a dead body 
+- Sunset Boulevard Ocean - your destination, wild and deep
 
 ## Screenshots
 
