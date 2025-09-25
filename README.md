@@ -27,7 +27,7 @@ Sunset Boulevard is a dark terminal theme crafted to capture golden hour in the 
 - Sunset Boulevard Venice - gritty green to drop a dead body 
 - Sunset Boulevard Ocean - your destination, wild and deep
 
-## Screenshots
+## Terminal - Screenshots
 
 ### Code Syntax Highlighting (js)
 <img width="744" height="587" alt="code-js" src="https://github.com/user-attachments/assets/1fde6395-3a9b-49b1-b467-750240f1e3de" />
@@ -37,6 +37,11 @@ Sunset Boulevard is a dark terminal theme crafted to capture golden hour in the 
 
 ### Git Diff View
 <img width="1474" height="1122" alt="git-diff" src="https://github.com/user-attachments/assets/0673c3cf-d9e1-43c3-b2cf-35cdac4fff96" />
+
+## Warp - Screenshots
+
+<img width="436" height="614" alt="warp-original-dracula" src="https://github.com/user-attachments/assets/35475ccc-26dd-4911-840b-cc90e5fccb76" />
+<img width="442" height="616" alt="warp-ocean-venice" src="https://github.com/user-attachments/assets/89619640-dd4b-492c-b380-f98b51f6e160" />
 
 ## Installation
 
