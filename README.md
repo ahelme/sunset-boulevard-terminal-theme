@@ -6,7 +6,7 @@
 
 ## About
 
-Sunset Boulevard terminal theme is crafted to capture the essence of golden hour - where the warm, fading light of sunset meets the electric glow of neon signs. A low-strain visual experience perfect for long coding sessions while maintaining excellent readability and visual hierarchy.
+Sunset Boulevard is a dark terminal theme crafted to capture golden hour in the city - where the warm, fading light of sunset meets the electric glow of neon signs. Low-strain visuals for long coding sessions with excellent readability.
 
 ## Features
 
