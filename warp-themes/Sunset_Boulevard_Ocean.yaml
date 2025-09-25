@@ -1,0 +1,29 @@
+name: Sunset Boulevard Ocean # Deep ocean gradient with more blue tones
+accent: 
+  left: '#8857F1' # Purple for consistency
+  right: '#AC74D2' # Cursor purple - subtle gradient
+cursor: '#AC74D2' # Cursor color from original theme
+background:
+  top: '#0f1520' # Abyssal black-blue depths
+  bottom: '#2a3040' # Lighter blue version of original background
+foreground: '#e1d270' # Normal text color (warm golden yellow)
+details: darker # This is a dark theme
+terminal_colors: # ANSI escape colors - correct values from user
+  bright:
+    black: '#666666' # Bright black from user
+    blue: '#0000FF' # Bright blue from user
+    cyan: '#00E5E5' # Bright teal from user
+    green: '#00D900' # Bright green from user
+    magenta: '#E500E5' # Bright magenta from user
+    red: '#E50000' # Bright red from user
+    white: '#E29B6A' # Emphasized text color (orange)
+    yellow: '#E5E500' # Bright yellow from user
+  normal:
+    black: '#262626' # Black from user
+    blue: '#4A5FAB' # Blue from user
+    cyan: '#41939F' # Teal from user
+    green: '#4DAE7C' # Green from user
+    magenta: '#AD4FAD' # Magenta from user
+    red: '#B55A5D' # Red from user
+    white: '#E29B6A' # Orange for bold text
+    yellow: '#CBC976' # Yellow from user
